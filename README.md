@@ -1,2 +1,1 @@
-# Epoject-TicTacToe
-This is my first Github Repository.
+Mohammed Zeeshan Khan This is my first git Project
