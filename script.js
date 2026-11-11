@@ -3,3 +3,4 @@ let qty = 25 ;
 let total = army + qty;
 
 console.log (total);
+document.write ( "Your Total Amount is :" ,total)
